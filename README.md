@@ -7,7 +7,7 @@ a practicar las bases del código HTML + CCS + JS
 ## Autor
 
 <img
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93KlH1ywv51_GCHitnlAo0RsardX_D55IYw&usqp=CAU"
+  src="https://www.quefriki.com/wp-content/uploads/Camiseta-Gears-of-War.-Logo-negra.jpg"
   alt = "Guizar Mario"
   width= "300"/>
 
